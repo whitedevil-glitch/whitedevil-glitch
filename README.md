@@ -18,6 +18,8 @@
 <a href="https://dev.to/saishan97540968" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a> 
+<a href="https://discordapp.com/users/577403984382263296/" target="_blank">
+ <img src="https://imgur.com/bifqFmE" style="margin-bottom: 5px;" />
 </div>  
 
 <!--
