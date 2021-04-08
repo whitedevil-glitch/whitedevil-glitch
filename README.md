@@ -2,9 +2,9 @@
 ### Hi there 👋
 ![thisisme](https://user-images.githubusercontent.com/73755149/114029103-d02c1b80-9896-11eb-8080-324d5dfb1d4c.png)
 
-![SKILLS](https://user-images.githubusercontent.com/73755149/114036686-eb4e5980-989d-11eb-9297-eaadb73a5c5b.gif)
+![Copy of Copy of SKILLS](https://user-images.githubusercontent.com/73755149/114039902-c1e2fd00-98a0-11eb-9e74-2ec84f5289c9.gif)
 
-![1](https://user-images.githubusercontent.com/73755149/114038692-b5aa7000-989f-11eb-81e8-ad396494b130.gif)
+
 
 
 
