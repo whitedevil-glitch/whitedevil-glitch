@@ -19,8 +19,7 @@
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a> 
 <a href="https://discordapp.com/users/577403984382263296/" target="_blank">
- <img src="![Screenshot 2021-04-08 221814](https://user-images.githubusercontent.com/73755149/114065834-b69bcb80-98b8-11eb-8d27-d221ebde7d92.jpg)
-" style="margin-bottom: 5px;" />
+ <img src="![Screenshot 2021-04-08 221814](https://user-images.githubusercontent.com/73755149/114065834-b69bcb80-98b8-11eb-8d27-d221ebde7d92.jpg)"/>
 </div>  
 
 <!--
