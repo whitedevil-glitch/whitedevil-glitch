@@ -1,9 +1,8 @@
+
 ### Hi there 👋
 ![thisisme](https://user-images.githubusercontent.com/73755149/114029103-d02c1b80-9896-11eb-8080-324d5dfb1d4c.png)
 
-
-https://user-images.githubusercontent.com/73755149/114036194-7da22d80-989d-11eb-970c-e4cfa339b626.mp4
-
+![SKILLS](https://user-images.githubusercontent.com/73755149/114036352-a1fe0a00-989d-11eb-8388-a55dcc662681.gif)
 
 
 <!--
