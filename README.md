@@ -4,6 +4,9 @@
 
 ![SKILLS](https://user-images.githubusercontent.com/73755149/114036686-eb4e5980-989d-11eb-9297-eaadb73a5c5b.gif)
 
+![Untitled design](https://user-images.githubusercontent.com/73755149/114038412-7b40d300-989f-11eb-8715-8ed02d9b270a.gif)
+
+
 
 
 <!--
