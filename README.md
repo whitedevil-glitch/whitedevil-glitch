@@ -6,7 +6,7 @@
 
 ![Untitled](https://user-images.githubusercontent.com/73755149/114040152-f8207c80-98a0-11eb-8885-a7f6be594b5e.gif)
 
-
+![](https://komarev.com/ghpvc/?username=whitedevil-glitch)
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/whitedevil-glitch" target="_blank">
