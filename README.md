@@ -10,18 +10,7 @@
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=whitedevil-glitch&theme=tokyonight">
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/whitedevil-glitch" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/SaiShan97540968" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/saishan97540968" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a> 
-<a href="https://discordapp.com/users/577403984382263296/" target="_blank">
-<img src="![Screenshot 2021-04-08 221814](https://user-images.githubusercontent.com/73755149/114065834-b69bcb80-98b8-11eb-8d27-d221ebde7d92.jpg)"/>
-</a>
+  <h1>Discord --> White Devil#6969 </h1>
 </div>  
 
 <!--
