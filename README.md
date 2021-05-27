@@ -12,7 +12,7 @@
   <h1>Discord --> White Devil#6911 </h1>
 </div>  
 
-![](https://komarev.com/ghpvc/?username=whitedevil-glitch&color=blueviolet)
+![stats](https://komarev.com/ghpvc/?username=whitedevil-glitch&color=blueviolet)
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=whitedevil-glitch&theme=tokyonight">
 
 
