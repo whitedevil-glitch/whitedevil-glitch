@@ -6,8 +6,7 @@
 
 ![Untitled](https://user-images.githubusercontent.com/73755149/114040152-f8207c80-98a0-11eb-8885-a7f6be594b5e.gif)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pd79hqqpxiwm02dvz8zwq95qf&cover_image=true&theme=default)](https://github.com/kittinan/spotify- github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pd79hqqpxiwm02dvz8zwq95qf&cover_image=true&theme=default]
 
 ![](https://komarev.com/ghpvc/?username=whitedevil-glitch&color=blueviolet)
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=whitedevil-glitch&theme=tokyonight">
