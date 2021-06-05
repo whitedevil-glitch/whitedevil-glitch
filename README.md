@@ -7,6 +7,7 @@
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=pd79hqqpxiwm02dvz8zwq95qf&cover_image=true&theme=default"</div>
+<hr>
 
 
 ## Connect with me  
