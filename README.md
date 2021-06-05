@@ -4,7 +4,7 @@
 ![Copy of Copy of SKILLS](https://user-images.githubusercontent.com/73755149/114039902-c1e2fd00-98a0-11eb-9e74-2ec84f5289c9.gif)
 
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pd79hqqpxiwm02dvz8zwq95qf&cover_image=true&theme=default)
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=pd79hqqpxiwm02dvz8zwq95qf&cover_image=true&theme=default"</div>
 
 
 ## Connect with me  
