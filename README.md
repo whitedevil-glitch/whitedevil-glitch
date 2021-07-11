@@ -8,8 +8,7 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=pd79hqqpxiwm02dvz8zwq95qf&cover_image=true&theme=default"</div>
 <hr>
-<iframe src="https://open.spotify.com/embed/track/3R0FDwQSXOiO5gaOZFxKZ5?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<hr>
+
 
 ## Connect with me  
 <div align="center">
