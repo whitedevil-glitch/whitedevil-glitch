@@ -1,21 +1,35 @@
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+### Hi there 👋
 
-![thisisme](https://user-images.githubusercontent.com/73755149/114029103-d02c1b80-9896-11eb-8080-324d5dfb1d4c.png)
-<br><hr>
+- 💤 I’m currently on a Break!
+- 📑 I’m currently studying!
+- 👯 I’m looking to collaborate on Front-End Work
+- 🤔 I’m looking for help with React.
+- 💬 Ask me about Anime and Computers 0_0
+- 😄 Pronouns: He/Him
+- ⚡ Fun Fact: The first computer “bug” was an actual real-life bug 🐛
+<br>
 
-![Copy of Copy of SKILLS](https://user-images.githubusercontent.com/73755149/114039902-c1e2fd00-98a0-11eb-9e74-2ec84f5289c9.gif)
-<br><hr>
+<a href="https://github.com/whitedevil-glitch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitedevil-glitch&theme=dracula&line_langs_below=1" />
+</a>
+<a href="https://github.com/whitedevil-glitch">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=whitedevil-glitch&show_icons=true&theme=dracula&line_height=27" alt="Sai's github stats"/>
+</a>
+
+### Connect with me:
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=pd79hqqpxiwm02dvz8zwq95qf&cover_image=true&theme=default"</div>
-<hr>
-
-
-## Connect with me  
-<div align="center">
-  <h1>Discord --> White Devil#6911 </h1>
-</div>  
+[<img align="left" alt=" Twitter" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" Facebook" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][DEV]
 
 ![stats](https://komarev.com/ghpvc/?username=whitedevil-glitch&color=blueviolet)
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=whitedevil-glitch&theme=tokyonight">
+
+<br>
+<br>
+
+### Show some ❤️ by starring some of the repositories!
+
+[twitter]: https://twitter.com/SaiShankar28
+[DEV]: https://dev.to/saishankar
+
 
