@@ -21,7 +21,8 @@
 
 
 [<img align="left" alt=" Twitter" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" Facebook" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][DEV]
+[<img align="left" alt=" Dev.to" width="52px" src="https://simpleicons.org/icons/devdotto.svg" />][DEV]
+
 
 ![stats](https://komarev.com/ghpvc/?username=whitedevil-glitch&color=blueviolet)
 
