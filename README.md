@@ -8,7 +8,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: The first computer “bug” was an actual real-life bug 🐛
 <br>
-<a href="https://app.daily.dev/whitedevil"><img src="https://api.daily.dev/devcards/3a8ead8ec99a453191bcacae38a3f363.png?r=6m4" width="300" align="left" alt="whitedevil's Dev Card"/></a>
 
 <a href="https://github.com/whitedevil-glitch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitedevil-glitch&theme=dracula&line_langs_below=1" />
