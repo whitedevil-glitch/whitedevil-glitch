@@ -1,12 +1,9 @@
 ### Hi there 👋
 
 - 💤 I’m currently on a Break!
-- 📑 I’m currently studying!
-- 👯 I’m looking to collaborate on Front-End Work
-- 🤔 I’m looking for help with React.
+- 👯 I’m looking to collaborate on Frontend Work
 - 💬 Ask me about Anime and Computers 0_0
 - 😄 Pronouns: He/Him
-- ⚡ Fun Fact: The first computer “bug” was an actual real-life bug 🐛
 <br>
 
 <a href="https://github.com/whitedevil-glitch">
