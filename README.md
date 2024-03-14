@@ -1,9 +1,8 @@
-### Hi there 👋
+### konichiwa 👋
 
-- 💤 I’m currently on a Break!
-- 👯 I’m looking to collaborate on Frontend Work
-- 💬 Ask me about Anime and Computers 0_0
-- 😄 Pronouns: He/Him
+I work on software.<br>
+Based in Bengaluru, India.
+
 <br>
 
 <a href="https://github.com/whitedevil-glitch">
